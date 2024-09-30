@@ -1,0 +1,11 @@
+C:\Users\phamv\source\repos\baitap3\baitap3\obj\Debug\baitap3.csproj.AssemblyReference.cache
+C:\Users\phamv\source\repos\baitap3\baitap3\obj\Debug\baitap3.Form1.resources
+C:\Users\phamv\source\repos\baitap3\baitap3\obj\Debug\baitap3.Form2.resources
+C:\Users\phamv\source\repos\baitap3\baitap3\obj\Debug\baitap3.Properties.Resources.resources
+C:\Users\phamv\source\repos\baitap3\baitap3\obj\Debug\baitap3.csproj.GenerateResource.cache
+C:\Users\phamv\source\repos\baitap3\baitap3\obj\Debug\baitap3.csproj.CoreCompileInputs.cache
+C:\Users\phamv\source\repos\baitap3\baitap3\bin\Debug\baitap3.exe.config
+C:\Users\phamv\source\repos\baitap3\baitap3\bin\Debug\baitap3.exe
+C:\Users\phamv\source\repos\baitap3\baitap3\bin\Debug\baitap3.pdb
+C:\Users\phamv\source\repos\baitap3\baitap3\obj\Debug\baitap3.exe
+C:\Users\phamv\source\repos\baitap3\baitap3\obj\Debug\baitap3.pdb
